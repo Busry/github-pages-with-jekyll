@@ -1,4 +1,7 @@
-
+---
+title: "Busry Blogpost"
+date: 2019-04-14
+---
 # learn git
 
 ## introduction
